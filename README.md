@@ -4,7 +4,7 @@
 
 The goal of this project is to develop a basic data analysis application that enables us to examine information on the rainfall in various parts of Ireland for each month over the past half century. The data files for this are included. The functions of this program are outlined below and this is also the menu you see when the program is started:
 
-'''
+```
 1. Basic Statistics for Total Rainfall (Millimetres)
 
 2. Basic Statistics for Most Rainfall in a Day (Millimetres)
@@ -14,7 +14,7 @@ The goal of this project is to develop a basic data analysis application that en
 4. Wettest Location
 
 5. Percentage of Rain Days
-'''
+```
 
 ---
 
