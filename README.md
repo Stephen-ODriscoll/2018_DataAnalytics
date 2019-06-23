@@ -1,6 +1,6 @@
 # 2018_DataAnalytics
 
-Project A
+### Project A
 
 The goal of this project is to develop a basic data analysis application that enables us to examine information on the rainfall in various parts of Ireland for each month over the past half century. The data files for this are included. The functions of this program are outlined below and this is also the menu you see when the program is started:
 
@@ -16,6 +16,6 @@ The goal of this project is to develop a basic data analysis application that en
 
 ---
 
-Project B
+### Project B
 
 The goal of this project is to build a learning algorithm that analyses several tweets from two documents, positive and negative and learns to classify unseen tweets from this analysis. This is done by building a Naïve Bayes Multinomial Model, then using Multinomial Text Classification to calculate probabilities of each unique word being related to either positive or negative. More info is available in the report included with this project.
